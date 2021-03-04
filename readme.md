@@ -8,3 +8,9 @@ Code example from "the book".
 - Getting Started
   - [Hello, World!](/hello_world)
   - [Hello, Cargo!](/hello_cargo)
+- [Guessing Game](/guessing_game)
+- Common Programming Concept
+  - [Variables and Mutability](/variables)
+  - [Data Types](/data_types)
+  - [Functions](/functions)
+  - [Control Flow](/control_flow)
