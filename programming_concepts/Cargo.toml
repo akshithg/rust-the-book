@@ -1,5 +1,5 @@
 [package]
-name = "variables"
+name = "programming_concepts"
 version = "0.1.0"
 authors = ["Akshith Gunasekaran <akshith.573@gmail.com>"]
 edition = "2018"

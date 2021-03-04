@@ -9,8 +9,11 @@ Code example from "the book".
   - [Hello, World!](/hello_world)
   - [Hello, Cargo!](/hello_cargo)
 - [Guessing Game](/guessing_game)
-- Common Programming Concept
-  - [Variables and Mutability](/variables)
-  - [Data Types](/data_types)
-  - [Functions](/functions)
-  - [Control Flow](/control_flow)
+- [Common Programming Concept](/programming_concepts)
+  - Variables and Mutability
+  - Data Types
+  - Functions
+  - Control Flow
+- Ownership
+  - References and Borrowing
+  - The Slice Type
